@@ -7,8 +7,30 @@ Lectura - müəllimlər və kurslar üçün nəzərdə tutulmuş sinif idarəetm
 - [Vebsayt](https://lectura-az.netlify.app)
 - [Yüklə](https://lectura-az.netlify.app/install)
 - [Əlaqə və Kömək](https://lectura-az.netlify.app/help)
+- [Instagram](https://www.instagram.com/lectura.az/)
 
 ## Changelog
+
+### Update 1.1.0
+
+Platformun 1.1.0 versiyası onun istifadəsini təkcə fərdi müəllimlər üçün deyil, həm də kurslar və digər tədris təşkilatları üçün daha əlverişli hala gətirir. Bu versiyada aşağıdakı yeniliklər mövcuddur:
+
+- **Təşkilatlar:** Təşkilatlar, birdən çox müəllimi eyni hesab və plan altında birləşdirir.
+- _Təşkilatın yaradılması_
+  Bu funksiyanın tətbiqi üçün, qeydiyyat zamanı "Yeni Təşkilat Yarat" və ya "Mövcud Təşkilata Qoşul" seçimlərindən birini seçməlisiniz. Təşkilat hesabı yaratdıqda, siz təşkilatınız üçün plan seçimi edib buna uyğun ödəniş etməlisiniz. Lakin, təşkilata qoşulmuş müəllimlərin plan üzrə ödəniş etməsinə ehtiyac yoxdur.
+- _Təşkilata qoşulmaq və təşkilatdakı müəllimlərin idarə edilməsi_
+  Təşkilat rəhbəri (təşkilat hesabını yaratmış şəxs) Təşkilat hesabında parametlərinə daxil olduqda, həmin təşkilata müəllimləri dəvət etmək üçün təyin edilmiş 6 simvoldan ibarət kodu görə bilər. Digər müəllimlər proqramdan qeydiyyatdan keçərkən "Mövcud Təşkilata Qoşul" seçimindən istifadə edərək, və ya hesabı yaratdıqdan sonra bu kod vasitəsilə təşkilata qoşulma sorğusu göndərə bilərlər.
+  Təşkilat rəhbəri proqramda "Təşkilatınız" bölməsindən bu sorğunu rədd edə və ya qəbul edə bilər. Bu hissədən hazırda təşkilata qoşulmuş müəllimlərin siyahısını görə və onları təşkilatdan uzaqlaşdıra bilərsiniz.
+  Təşkilata qoşulmuş müəllimlər təşkilat rəhbəri tərəfindən edilən ödənişə uyğun plandan yararlana bilirlər. Bir müəllimin bir neçə təşkilata qoşulması da mümkündür.
+- _Şagirdlərin qruplara və müəllimlərə təyini_
+  Təşkilat hesabında mövcud olan hansısa müəllimin hər hansı şagirdin və ya qrupun məlumatlarını görə bilməsi və ya onu redaktə edə bilməsi üçün təşkilat rəhbəri tərəfindən bu qrup və ya şagird həmin müəllimə təyin edilməlidir.
+  Şagirdin müəllimə təyini, şagird səhifəsindəki "Müəllimlər" hissəsindən edilə bilər. Eyni hissə qrup səhifəsində də mövcuddur. Qeyd etmək lazımdır ki, bir qrup müəllimə təyin edildikdə, həmin qrupda olan bütün şagirdlər də müəllimə təyin edilmiş hesab edilir. Müəllimin ona təyin edilmiş şagird və qrupları silmək hüququ yoxdur. O yalnız qrup daxilində tədrisin gedişatı ilə bağlı əməliyyatları (davamiyyət, qeyd, qiymət, imtahan nəticələri və s.) yerinə yetirə bilər. Əlavə olaraq, qrupların və şagirdlərin yaradılması yalnız təşkilat rəhbərinin profili vasitəsilə həyata keçirilə bilər.
+- _Təşkilat konteksti_
+  Birdən çox təşkilata qoşulmağın mümkün olması səbəbilə proqramda aktiv təşkilatın seçilməsi üçün hissə mövcuddur. Bu seçimi etmək üçün nəzərdə tutulmuş düymə kompüter ekranında sol aşağı hissədə, telefon ekranında menyunun aşağı hissəsində yerləşir. Proqramda gördüyünüz informasiya seçdiyiniz təşkilata uyğun olaraq dəyişir. Həmçinin bu hissədə "Digər Təşkilata Qoşulun" seçimi də mövcuddur.
+- _Təşkilat parametrləri_
+  Parametrlər hissəsinə əlavə edilmiş "Təşkilat Parametrləri" hissəsindən təşkilatın ümumi məlumatlarını redaktə edə bilərsinz. Bu hissədə təşkilatın istifadə etdiyi plan üzrə limitləri və həmin limitdən hansı hissənin istifadə edildiyini görmək mümkündür. Əlavə olaraq, burda təşkilatın dəvət kodu və onun yenilənməsi üçün seçim mövcuddur.
+- **Fərdi Plan:** Sistemi istifadə etmək üçün nəzərdə tutulmuş planların əhatə dairəsi (xüsusilə də plan üçün nəzərdə tutulmuş müəllim profili sayı) təşkilatlar üçün kifayət etmədikdə, onların bizimlə əlaqə saxlayaraq özlərinə uyğun fərdi plan əldə etmələri mümkündür. Bu planlar təşkilatın ehtiyaclarına uyğun olaraq hazırlanır və qiyməti də ona uyğun hesablanır.
+- **Qiymət:** "Davamiyyət" hissəsinin adı "Jurnal" olaraq dəyişdirilib və bu hissəyə şagirdin davamiyyət statusu ilə yanaşı 0 və 10 bal arası qiymət yazılması üçün hissə əlavə edilib. Bu qiymət şagirdin şəxsi link ilə əldə etdiyi ictimai profilində də görünür.
 
 ### Release 1.0.0
 
