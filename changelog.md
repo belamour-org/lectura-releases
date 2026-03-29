@@ -11,6 +11,10 @@ Lectura - müəllimlər və kurslar üçün nəzərdə tutulmuş sinif idarəetm
 
 ## Changelog
 
+### Patch 1.1.1
+
+- **Optimizasiya**: platformanın ümumi performansı artırıldı.
+
 ### Update 1.1.0
 
 Platformun 1.1.0 versiyası onun istifadəsini təkcə fərdi müəllimlər üçün deyil, həm də kurslar və digər tədris təşkilatları üçün daha əlverişli hala gətirir. Bu versiyada aşağıdakı yeniliklər mövcuddur:
