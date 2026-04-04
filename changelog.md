@@ -11,6 +11,19 @@ Lectura - müəllimlər və kurslar üçün nəzərdə tutulmuş sinif idarəetm
 
 ## Changelog
 
+### Update 1.2.0
+
+Platformun 1.2.0 versiyası "Materiallar" xüsusiyyətini təqdim edir. Bu xüsusiyyət müəllimlərin platforma materiallar yükləməsi və onları qruplara əlavə etməklə, xüsusi link vasitəsilə şagirdlərlə paylaşmasına şərait yaradır.
+
+- **Materiallar**: platformaya üç növdə material yüklənə bilər: "Fayl", "Mətn" və "Link".
+- _Fayl_ tipli materialllara PDF, Word, Excel, PowerPoint, txt kimi fayllar daxil ola bilər.
+- _Mətn_ tipli materiallar isə, fayl yükləməyə ehtiyac qalmadan birbaşa proqramın daxilində mətn yazılması və paylaşılması üçündür.
+- _Link_ tipli materiallar isə, internetdə mövcud olan hər hansı bir səhifənin linkinin paylaşılması üçündür.
+- _Material Yaradılması_ yan panelə əlavə edilmiş yeni "Materiallar" hissəsindəki "Material Yarat" düyməsi vasitəsilə və ya əsas səhifədəki qısa yollar vasitəsilə həyata keçirilə bilər.
+- _Materialın Qrupa Əlavə Edilməsi_: materialı yaratdıqdan sonra, onun hansısa qrupa əlavə edilməsi mümkündür. Bu həm materiallar səhifəsindən həm də qrup səhifəsinə əlavə edilmiş yeni "Materiallar" hissəsindən edilə bilər. Material qruplara əlavə edildikdə, həmin materialın qrupun şagirdləri tərəfindən görülməsi mümkün olur.
+- _Materialların Paylaşılması_: qrup səhifəsindəki "Materiallar" hissəsində "Materialları Paylaş" düyməsi vasitəsilə, həmin qrupun materiallarını xüsusi link vasitəsilə paylaşa bilərsiniz. Bu linkə daxil olan şəxslər həmin qrupun materiallarını görə bilərlər. Bu linkə daxil olmaq üçün heç bir hesaba ehtiyac yoxdur.
+- Materialların yaradılması üçün limit hər plana uyğun olaraq müəyyən edilib. Materiallar üçün yer dolduqda, artıq istifadə olunmayan materialları silmək və ya daha yüksək plana keçmək kimi seçimləriniz mövcuddur. Təşkilat parametrlərində təşkilatınız üçün material yaddaşı limitini və istifadə olunan yaddaşın miqdarını görə bilərsiniz.
+
 ### Patch 1.1.1
 
 - **Optimizasiya**: platformanın ümumi performansı artırıldı.
