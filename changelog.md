@@ -11,6 +11,16 @@ Lectura - müəllimlər və kurslar üçün nəzərdə tutulmuş sinif idarəetm
 
 ## Changelog
 
+### Update 1.3.0
+
+Platformun 1.3.0 versiyası "Maliyyə" xüsusiyyətini təqedim edir.
+
+- **Maliyyə**: platformaya əlavə edilmiş yeni "Maliyyə" xüsusiyyəti müəllimlərin şagirdlərin ödəniş tarixçəsi və statusu ilə yanaşı, həm də əlavə xərc və gəlirləri sistemə əlavə etməsini təmin edir.
+- _Tranzaksiyalar_ hissəsindən müəllimlər gəlir və ya xərclərinin kateqoriyalar formasında əlavə edə bilərlər.
+- _Tranzaksiya kateqoriyaları_ bölməsindən bu tranzaksiyaları rahat qruplaşdırmaq üçün nəzərdə tutulmuş kateqoriyaları yarada, silə və ya redaktə edə bilərsiniz.
+- _Şagird ödənişləri_ hissəsində hər şagirdin iştirak etdiyi hər qrup üçün etdiyi son ödənişin tarixi və onun üzərindən neçə gün keçməsi qeyd olunub. Siz öz ödəniş dövrünüzü seçərək, bu dövrü keçmiş şagirdləri görə bilərsiniz.
+- _Statistika_ hissəsində bütün qeyd olunmuş maliyyə məsələləri ilə bağlı detallı statistika təqdim edilib. Buna xərclərin kateqoriyalar üzrə bölgüsü, şagird ödənişlərinin cəmi, tranzaksiyaların cəmi və s. daxildir.
+
 ### Update 1.2.0
 
 Platformun 1.2.0 versiyası "Materiallar" xüsusiyyətini təqdim edir. Bu xüsusiyyət müəllimlərin platforma materiallar yükləməsi və onları qruplara əlavə etməklə, xüsusi link vasitəsilə şagirdlərlə paylaşmasına şərait yaradır.
