@@ -11,6 +11,20 @@ Lectura - müəllimlər və kurslar üçün nəzərdə tutulmuş sinif idarəetm
 
 ## Changelog
 
+### Update 1.4.0
+
+Platformun 1.4.0 versiyası "İcazə Meneceri" xüsusiyyətini təqdim edir.
+
+- **Təşkilatınız** bölməsində təşkilatınızın üzvü olan müəllimlərin siyahısında həmin müəllimlərə rollar təyin edə bilərsiniz. Bu rollar müəllimlərin platformada hansı funksiyalardan istifadə edə bildiyini təyin edir. Aşağıdakı rollar öncədən mövcuddur və müəllimlərə təyin oluna bilər. (Bu rollara sonradan əlavə və ya dəyişiklik edilməsi istisna olunmur.)
+
+- _Menecer_ - qrupların, şagirdlərin yaradılması, müəllimlərin təyin edilməsi, imtahanlara, qeydlərə, jurnala nəzarət kimi təhsil menecment funksiyalarını istifadə edə bilir.
+- _Mühasibatçı_ - maliyyə hissəsindən istifadə etməklə tranzaksiyaları və şagird ödənişlərini idarə edə bilir.
+- _Menecer və Mühasibatçı_ - Menecer və mühasibatçı rollarının hər ikisinin icazələrinə sahibdir.
+- _Müəllim_ - yalnız özünə təyin edilmiş qrup və şagirdləri görə bilir. Qrup jurnalına əlavələr edə və şagirdə qeyd yaza bilər. Əlavə olaraq bu rola sahib şəxs imtahanlar da yarada bilir.
+
+- **Rollar** bölməsindən yuxarıda qeyd edilmiş bütün rolları və "İcazələr" düyməsinə klikləməklə onların icazələrini görə bilərsiniz.
+- Əgər öncədən təyin edilmiş heç bir rol məqsədinizə uyğun deyilsə, "Təşkilatınız" hissəsindəki "Rollar" bölməsindən yeni rol yarada bilərsiniz. Bundan sonra, eyni bölmədə, yaratdığınız rolun yanında yerləşən "İcazələr" düyməsindən istifadə etməklə, həmin rola sahib şəxslər üçün hansı funksiyaların əlçatan olmasını seçə bilərsiniz. Bundan sonra, yaradılmış rol müəllimlərə öncə izah edilmiş qaydada təyin oluna bilər.
+
 ### Update 1.3.0
 
 Platformun 1.3.0 versiyası "Maliyyə" xüsusiyyətini təqedim edir.
