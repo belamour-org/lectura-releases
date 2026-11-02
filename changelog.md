@@ -11,6 +11,16 @@ Lectura - müəllimlər və kurslar üçün nəzərdə tutulmuş sinif idarəetm
 
 ## Changelog
 
+### Update 1.5.0
+
+Platformun 1.5.0 versiyası "Tapşırıqlar" xüsusiyyətini təqdim edir.
+
+Hər qrupda yerləşən **Tapşırıqlar** bölməsində müəllimlər həmin qrup üçün daxilində birdən çox _tapşırıq_ olan _tapşırıqlar qrupu_ yarada bilərlər. Tapşırıq yaradarkən başlıq və izahla yanaşı tapşırığın icrası üçün başlanğıc və son tarix qeyd edə, eləcə də tapşırığa _materiallar_ əlaqələndirə bilərlər. Tapşırıq və ya tapşırıq qrupu yaradıldıqda, öncədən yaradılmış tapşırıq və tapşırıq qruplarının yenidən istifadəsi də mümkündür.
+
+Qrupda yaradılan tapşırıq hər bir şagirdin xüsusi linklə daxil ola bildiyi şəxsi profilində görünür. Buradan şagird tapşırığın detalları ilə tanış ola və əlaqələndirilmiş materiallara baxa bilər. Şagird tapşırığı icra etdikdə, "Tamamla" düyməsi ilə tapşırığı tamamlanmış kimi qeyd edə bilər.
+
+Müəllim qrupdakı "Tapşırıqlar" hissəsində təyin edilmiş tapşırıqların şagirdlər tərəfindən tamamlanma statistikasını görə bilər. Əlavə olaraq, bu hissədə tapşırıqlara düzəliş olunması da mümkündür.
+
 ### Update 1.4.0
 
 Platformun 1.4.0 versiyası "İcazə Meneceri" xüsusiyyətini təqdim edir.
